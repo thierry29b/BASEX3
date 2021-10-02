@@ -6,7 +6,7 @@
     </head>
     <body style="background-color:#1abc9c">
 
-    <h1> GESTION DE LA BASE DE DONNEE "nomenclature" </h1>
+    <h1 style="padding-top:5%;padding-bottom:20%;text-align:center;color:#054277"> GESTION DE LA BASE DE DONNEE "nomenclature" </h1>
         <form action="formulaire_1.php" method="post">
             <input type="submit" value="rechercher_1_code" />
         </form>
